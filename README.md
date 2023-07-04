@@ -1,2 +1,2 @@
 # lato-lato-counter
-Simple app that listen and count the lato-lato noise
+Simple app that listens to and counts the lato-lato noise that you make.
